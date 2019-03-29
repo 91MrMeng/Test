@@ -1,0 +1,180 @@
+.head{
+	width: 100%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	overflow: hidden;
+}
+.logo{
+	margin-left: 35px;
+}
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+.txtBox{
+	height: 45px;
+	background: none;
+	width: 120px;
+	color: red;
+	padding-left: 10px;
+}
+.txt1{
+	margin-top: 5px;
+}
+.WelcomeLogin{
+	font-size: 22px;
+	line-height: 45px;
+	margin-left: 25px;
+}
+.hotline{
+	overflow: hidden;
+	margin-right: 15px;
+}
+.kefu{
+	font-size: 12px;
+	margin-top: 5px;
+}
+.dianhua{
+	font-size: 17px;
+	font-weight: bold;
+}
+
+.content{
+	overflow: hidden;
+	background: url(../img/bg.jpg) no-repeat;
+	background-size: 100% 640px;
+	height: 840px;
+}
+
+.loginBox{
+	width: 394px;
+	height: 411px;
+	background: white;
+	position: relative;
+	left: 60%; 
+	top: 13.33%;
+	z-index: 5;
+}
+.banner{
+	width: 1200px;
+	overflow: hidden;
+	padding-bottom: 20px;
+	margin: 0 auto;
+}
+#logoBox{
+	margin: 0 auto;
+	width: 129px;
+	height: 53px;
+	padding-top: 30px;
+	margin-bottom: 30px;
+}
+.inBanner{
+	width: 90%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+#Login{
+	border: none;
+	background: white;
+	font-size: 17px;
+	outline: none;
+}
+#SignIn{
+	border: none;
+	background: white;
+	font-size: 17px;
+	outline: none;
+	float: right;
+	font-weight: bold;
+	color: red;
+}
+
+#ZhangHao{
+	width: 250px;
+	height: 43px;
+	border: none;
+	outline: none;
+	padding-left: 54px;
+	padding-right: 50px;
+	background: #f6f6f6;
+	
+}
+.icon-zhanghao{
+	position: relative;
+	top: 32px;
+	left: 20px;
+}
+#Password{
+	width: 300px;
+	height: 43px;
+	border: none;
+	outline: none;
+	padding-left: 54px;
+	background: #f6f6f6;
+}
+.icon-mima{
+	position: relative;
+	top: 32px;
+	left: 20px;
+}
+.banner3{
+	/*margin-top: -75px;*/
+	margin-top: 25px;
+}
+.banner3 span{
+	font-size: 12px;
+}
+.banner3 input{
+	margin-top: 2px;
+}
+#LoginBtn{
+	background: #07bd54;
+	color: white;
+	height: 43px;
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+	border: none;
+	outline: none;
+	font-size: 17px;
+	font-weight: bold;
+	line-height: 43px;
+	margin-top: 25px;
+}
+#list{
+	position: relative;
+	top: 32px;
+	right: -290px;
+}
+.liebiao li{
+	width: 100px;
+	height: 25px;
+	background: #F6F6F6;
+	list-style: none;
+	border-top: 1px solid black;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+.liebiao li:first-child{
+	border-top: none;
+}
+.liebiao li:last-child{
+	border-bottom: 1px solid black;
+}
+.liebiao{
+	width: 100px;
+	position: relative;
+	z-index: 999;
+	top: -80px;
+	left: 232px;
+}
+#jiance{
+	border: none;
+	background: none;
+	font-size: 17px;
+}
+button{
+	cursor: pointer;
+}
